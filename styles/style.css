@@ -23,7 +23,7 @@ nav li {
   margin-left: 50px;
 }
 .btn-primary {
-  height: 64px;
+  height: 60px;
   border-radius: 5px;
   background: #fd630a;
   color: #ffffff;
@@ -31,6 +31,7 @@ nav li {
   font-size: 20px;
   border: 0;
   padding: 18px 35px;
+  margin-top: 3px;
 }
 .nav-title {
   font-weight: 800;
